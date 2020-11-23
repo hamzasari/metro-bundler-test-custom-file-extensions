@@ -1,0 +1,14 @@
+{
+  "name": "metro-bundler-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "express": "^4.17.1",
+    "metro": "^0.64.0",
+    "metro-core": "^0.64.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
